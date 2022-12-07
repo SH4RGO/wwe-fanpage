@@ -11,3 +11,10 @@ p.Lol {
     color:black ;
     font-family:sans-serif ;
 }
+p.White {
+    color: white;
+}
+h2.Olc {
+    color: red;
+    font-family: cursive;
+}
