@@ -1,0 +1,20 @@
+body{
+background-color:rgb(0, 0, 0);
+}
+p.WWE {
+    color: red;
+}
+p.font {
+      font-family: cursive; 
+}
+p.hidden {
+    color:black ;
+    font-family:sans-serif ;
+}
+p.White {
+    color: white;
+}
+h2.Olc {
+    color: red;
+    font-family: cursive;
+}
