@@ -18,3 +18,9 @@ h2.Olc {
     color: red;
     font-family: cursive;
 }
+h1.back {
+    font-family: fantasy;
+    color:rgb(199, 32, 32);
+    font-family: monospace;
+    background-color: rgb(255, 255, 255);
+}
