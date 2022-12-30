@@ -22,5 +22,5 @@ h1.back {
     font-family: fantasy;
     color:rgb(199, 32, 32);
     font-family: monospace;
-    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(233, 233, 233) ;
 }
