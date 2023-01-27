@@ -1,6 +1,6 @@
 #First_Website
 A Simple Website I Made When I Was Bored
-Enjoy It
+Enjoy It While you can ;
 Always Updated :")
 The Website Is Now Active
 Website Link :
