@@ -1,3 +1,3 @@
 window.onblur = () => {
-    document.title = "Come Back Here!";
+    document.title = "stay Here!";
 };
