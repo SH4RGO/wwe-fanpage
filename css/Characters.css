@@ -7,8 +7,8 @@ body {
     background-color: rgb(14, 31, 61);
 }
 .card {
-    width: 1490px;
-    height: 120px;
+    width: 690px;
+    height: 110px;
     padding: 0.5rem;
     background: rgba(198, 198, 198, 0.34);
     border-radius: 8px;
@@ -23,7 +23,7 @@ body {
   }
   
   .card:hover {
-    height: 400px;
+    height: 700px;
     transform: skew(0deg);
   }
   
