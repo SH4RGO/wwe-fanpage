@@ -3,15 +3,11 @@ background-color:rgb(0, 0, 0);
 background-image: url("../Images/Back4.jpg");
 backdrop-filter: blur(5px);
 }
-p.WWE {
+.WWE {
     color: red;
 }
 p.font {
       font-family: cursive; 
-}
-p.hidden {
-    color:black ;
-    font-family:sans-serif ;
 }
 p.White {
     color: white;
@@ -26,8 +22,8 @@ h1.back {
     font-family: monospace;
     font-size:50px;
     font-weight: 3300;
-    border: 2px solid white;
-    padding: 20px;
+    border: 5px solid white;
+    padding: 10px;
     margin: 20px;
     border-style: dotted;
 }
@@ -106,6 +102,8 @@ h1.back {
     transition: box-shadow 0.5s ease-out;
     z-index: -1;
   }
+
+
   button.Lk {
     font-size: 18px;
     display: inline-block;
@@ -121,6 +119,7 @@ h1.back {
     height: 2.6em;
     text-shadow: 0 1px 0 rgb(0 0 0 / 40%);
     transition: box-shadow 0.15s ease, transform 0.15s ease;
+    margin-left: 20px;
   }
   
   button:hover {
