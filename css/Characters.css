@@ -1,6 +1,7 @@
 body {
     color: rgb(247, 141, 141);
     background-image: url("../Images/Back4.jpg");
+    backdrop-filter: blur(5px);
 }
 
 .yellow {
